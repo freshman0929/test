@@ -1,3 +1,1 @@
-aaaaaaaaa
-bbbbbb
-
+print('Hello, world!')
